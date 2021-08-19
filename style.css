@@ -1,0 +1,17 @@
+.paragraph{
+    font-size: 30px;
+
+}
+.input{
+    font-size: 20px;
+    background-color: aquamarine;
+    text-align: center;
+    margin:4px;
+    
+}
+.button{
+    font-size: 25px;
+    background-color:crimson;
+    padding:8px;
+    margin:4px;
+}
